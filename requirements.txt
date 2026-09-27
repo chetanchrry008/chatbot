@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+motor
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+pydantic[email]
+python-dotenv
+langchain-google-genai
+pinecone
+langchain-community
+pypdf
+bcrypt
